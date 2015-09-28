@@ -5,7 +5,7 @@ There are two ways to build the project.
 
 The project file in this git repo represent only items are essential to the app (As shown in the image).
 
-![Alt text](image_url)
+![Alt text](https://github.com/kalvish/Android-Studio-minimal-gitignore/blob/master/docs/images/very_basic_project_files.png)
 
 
 
@@ -26,7 +26,7 @@ If you are using Android Studio, you can use "Import project" to successfully bu
  
 	* Install gradle on your computer. Make sure you can run 'gradle' from your project folder.
 
-	![Alt text](image_url)
+	![Alt text](https://github.com/kalvish/Android-Studio-minimal-gitignore/blob/master/docs/images/gradle_version.png)
 
 	* Then run the following command on your main forder. It will create .\gradlew.sh for Unix\Mac and .\gradlew.bat.
 
